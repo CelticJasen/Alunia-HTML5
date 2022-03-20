@@ -7,6 +7,9 @@ A passion project developed by Jasen Johnston and Kristina Woods.
 The controls are:
 
 Move:           Arrow keys or W, A, S, D
+
 Attack:         Left click or J
+
 Open Inventory: Tab or I
+
 Pause:          ESC
